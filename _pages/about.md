@@ -53,7 +53,7 @@ Welcome to my personal landing page! I am a graduate student in the department o
   *<sub> Supervisor:Mingjie Shen </sub>*
 
 # 🔥 Research
-- **Bachelor Honours Thesis **
+- *Bachelor Honours Thesis*
 
     Remote Sensing For Forestry Using ALS and Photogrammetry Data<br/>
     *<sub> Supervisor: Mitch Bryson </sub>*
