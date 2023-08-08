@@ -55,7 +55,7 @@ Welcome to my personal landing page! I am a graduate student in the department o
 # 🔥 Research
 - *Bachelor Honours Thesis*
 
-    Remote Sensing For Forestry Using ALS and Photogrammetry Data<br/>
+    Remote Sensing for Forestry Using ALS and Photogrammetry Data<br/>
     *<sub> Supervisor: Mitch Bryson </sub>*
 
 # 🍭 Projects
